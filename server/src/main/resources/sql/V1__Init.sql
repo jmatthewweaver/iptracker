@@ -1,0 +1,3 @@
+CREATE TABLE user_codes (
+  code VARCHAR(32) PRIMARY KEY NOT NULL
+);
